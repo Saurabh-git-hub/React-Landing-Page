@@ -1,7 +1,7 @@
 # CodeFlow - Modern Development Platform
 ![CodeFlow Hero](./public/home.png)
 
-## [🌐 Live Demo](https://codeflow-dev.netlify.app/)
+## [🌐 Live Demo](https://react-landing-page-delta-smoky.vercel.app/)
 
 ## 🎯 About
 CodeFlow is a modern front-end showcase project built with React and TailwindCSS. It demonstrates a sleek, responsive landing page for a development platform with features like:
